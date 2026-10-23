@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Forge Neo">
+  <defs>
+    <linearGradient id="fn-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b3a55"/>
+      <stop offset="1" stop-color="#16202f"/>
+    </linearGradient>
+    <linearGradient id="fn-spark" x1="20" y1="40" x2="46" y2="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9d57"/>
+      <stop offset="1" stop-color="#ffe3a1"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#fn-bg)"/>
+  <rect x="15" y="16" width="34" height="30" rx="6" fill="none" stroke="#9db4d4" stroke-width="2.4"/>
+  <circle cx="31.5" cy="30" r="6.2" fill="none" stroke="#9db4d4" stroke-width="2.4"/>
+  <path d="M18.5 43.5l8.4-8.6 5.1 5 4-3.8 8.5 7.4" fill="none" stroke="url(#fn-spark)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41 12.5l1.6 3.4 3.4 1.6-3.4 1.6L41 22.5l-1.6-3.4-3.4-1.6 3.4-1.6z" fill="#ffe3a1"/>
+</svg>

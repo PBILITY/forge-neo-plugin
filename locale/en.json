@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Forge Neo",
+    "description": "Drive a local Forge Neo (sd-webui-forge-classic / NeoForge) install from Harness: checkpoints, the txt2img API, its generated gallery, and server start/stop — in a right-sidebar side card."
+  }
+}

@@ -1,0 +1,12 @@
+# dsh-forge-neo: Forge Neo (NeoForge) bridge bundle.
+- insert:
+    - id: forge-neo
+      name: dsh-forge-neo
+      config:
+        baseUrl: http://127.0.0.1:7860
+        pythonPath: E:\sd-webui-forge-neo-aki-v1\python\python.exe
+        webuiDir: E:\sd-webui-forge-neo-aki-v1\sd-webui-forge-classic
+        autoStart: false
+        launchMode: webui
+        port: 7860
+        outputDir: ''

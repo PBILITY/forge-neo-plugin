@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Forge Neo 绘图",
+    "description": "在 Harness 里驱动本机的 Forge Neo（sd-webui-forge-classic / NeoForge）：模型、txt2img 生成、结果图廊、服务启停 —— 以右侧栏侧边卡片呈现。"
+  }
+}
